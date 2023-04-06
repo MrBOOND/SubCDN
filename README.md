@@ -47,3 +47,5 @@ python MrBOOND -D example.com -t 20
 ## المؤلف
 
 تم تطوير الأداة بواسطة MrBOOND 
+لا تنسى متابعتنا على Telegram 
+https://t.me/BO_NND
