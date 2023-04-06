@@ -24,7 +24,13 @@ pkg update && pkg upgrade -y
 
 pkg install python 
 
-git clone https://github.com/MrBOOND/SubCDN/
+git clone https://github.com/MrBOOND/SubCDN
+
+cd SubCDN
+
+pip install -r requirements.txt
+
+python MrBOOND -D example.com -t 20
 
 ## المكتبات المستخدمة
 
