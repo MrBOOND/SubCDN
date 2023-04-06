@@ -30,7 +30,7 @@ cd SubCDN
 
 pip install -r requirements.txt
 
-python MrBOOND -D example.com -t 20
+python MrBOOND.py -D example.com -t 20
 
 
 
