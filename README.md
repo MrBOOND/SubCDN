@@ -47,9 +47,3 @@ python MrBOOND -D example.com -t 20
 ## المؤلف
 
 تم تطوير الأداة بواسطة MrBOOND 
-
-[https://github.com/MrBOOND/SubCDN]
-
-## ترخيص
-
-هذا البرنامج مرخص بموجب رخصة [رخصة المشاع الإبداعي العامة](https://creativecommons.org/licenses/by/4.0/). يمكنك إعادة توزيعه و/أو تعديله وفقًا لشروط هذه الرخصة
