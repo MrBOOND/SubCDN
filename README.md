@@ -20,6 +20,12 @@ python MrBOOND.py -D example.com -t 20
 لتثبيت الأداة في Termux  اتبع الاوامر التالية :
 
 
+pkg update && pkg upgrade -y
+
+pkg install python 
+
+git clone https://github.com/MrBOOND/SubCDN/
+
 ## المكتبات المستخدمة
 
 - argparse: لتحليل الخيارات الممررة في الأمر.
