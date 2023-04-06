@@ -32,15 +32,6 @@ pip install -r requirements.txt
 
 python MrBOOND -D example.com -t 20
 
-## المكتبات المستخدمة
-
-- argparse: لتحليل الخيارات الممررة في الأمر.
-- csv: للكتابة في ملف CSV.
-- json: لتحليل استجابات API من crt.sh.
-- os: للتحقق من وجود ملف CSV.
-- requests: للحصول على استجابات HTTP من crt.sh.
-- concurrent.futures.ThreadPoolExecutor: لإنشاء خيوط متعددة لتسريع الفحص.
-- rich.console: للطباعة بألوان مختلفة في الوحدة النمطية.
 
 
 
