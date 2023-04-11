@@ -22,6 +22,8 @@ python MrBOOND.py -D example.com -t 20
 
 pkg update && pkg upgrade -y
 
+pkg install git 
+
 pkg install python 
 
 git clone https://github.com/MrBOOND/SubCDN
